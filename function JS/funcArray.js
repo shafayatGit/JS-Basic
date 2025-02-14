@@ -84,3 +84,7 @@ function sumOfEven(array){
 }
 let sumEven = sumOfEven([10, 11, 14, 15, 16])
 console.log(sumEven)
+
+function getMenu() {
+    console.log("Burger, Pizza, Pasta");
+   }
